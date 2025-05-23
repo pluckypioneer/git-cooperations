@@ -83,6 +83,6 @@ uvicorn app.main:app --reload
 
 ## 许可证
 
-MIT License
+[MIT License](https://opensource.org/license/mit)
 
 [查看License详情](https://github.com/pluckypioneer/git-cooperations/blob/main/LICENSE)
